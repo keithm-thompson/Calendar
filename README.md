@@ -25,6 +25,6 @@ To run the current desktop app:
 ... To do
 
 ### Contributors:
-Moshe Trenk  
-Omar Ahmed 
+Moshe Trenk    
+Omar Ahmed   
 Keith Thompson  
